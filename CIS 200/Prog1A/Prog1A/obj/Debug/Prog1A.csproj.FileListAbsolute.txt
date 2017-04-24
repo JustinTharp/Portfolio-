@@ -1,0 +1,2 @@
+C:\Users\jdthar02\Documents\CIS200\Prog1A\Prog1A\bin\Debug\Prog1A.exe.config
+C:\Users\Justin Tharp\Documents\CIS 200\Programs\Prog1A\Prog1A\bin\Debug\Prog1A.exe.config
