@@ -1,0 +1,18 @@
+c:\users\jdthar02\documents\visual studio 2012\Projects\Prog 2\Prog 2\bin\Debug\Prog 2.exe.config
+c:\users\jdthar02\documents\visual studio 2012\Projects\Prog 2\Prog 2\bin\Debug\Prog 2.exe
+c:\users\jdthar02\documents\visual studio 2012\Projects\Prog 2\Prog 2\bin\Debug\Prog 2.pdb
+c:\users\jdthar02\documents\visual studio 2012\Projects\Prog 2\Prog 2\obj\Debug\Prog 2.csprojResolveAssemblyReference.cache
+c:\users\jdthar02\documents\visual studio 2012\Projects\Prog 2\Prog 2\obj\Debug\Prog_2.Prog2.resources
+c:\users\jdthar02\documents\visual studio 2012\Projects\Prog 2\Prog 2\obj\Debug\Prog_2.Properties.Resources.resources
+c:\users\jdthar02\documents\visual studio 2012\Projects\Prog 2\Prog 2\obj\Debug\Prog 2.csproj.GenerateResource.Cache
+c:\users\jdthar02\documents\visual studio 2012\Projects\Prog 2\Prog 2\obj\Debug\Prog 2.exe
+c:\users\jdthar02\documents\visual studio 2012\Projects\Prog 2\Prog 2\obj\Debug\Prog 2.pdb
+C:\Users\jdthar02\Desktop\Prog 2\Prog 2\bin\Debug\Prog 2.exe.config
+C:\Users\jdthar02\Desktop\Prog 2\Prog 2\obj\Debug\Prog 2.exe
+C:\Users\jdthar02\Desktop\Prog 2\Prog 2\obj\Debug\Prog 2.pdb
+C:\Users\jdthar02\Desktop\Prog 2\Prog 2\bin\Debug\Prog 2.exe
+C:\Users\jdthar02\Desktop\Prog 2\Prog 2\bin\Debug\Prog 2.pdb
+C:\Users\jdthar02\Desktop\Prog 2\Prog 2\obj\Debug\Prog 2.csprojResolveAssemblyReference.cache
+C:\Users\jdthar02\Desktop\Prog 2\Prog 2\obj\Debug\Prog_2.Prog2.resources
+C:\Users\jdthar02\Desktop\Prog 2\Prog 2\obj\Debug\Prog_2.Properties.Resources.resources
+C:\Users\jdthar02\Desktop\Prog 2\Prog 2\obj\Debug\Prog 2.csproj.GenerateResource.Cache
